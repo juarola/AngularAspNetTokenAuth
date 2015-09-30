@@ -1,0 +1,1 @@
+curl -i -X POST http://localhost/AngularAspNetTokenAuthAPI/api/account/register -H "Content-Type: text/json" --data-binary "@create_new_user.json"
